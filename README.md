@@ -3,7 +3,7 @@
 A simple NodeJS app which streams mock iRacing data via websocket connections. It can be used for local development of SimRigManager or external apps that use the SimRig API.
 
 ## Usage
-To start the mock API, run the following within the mock-api directory:
+To start the mock API, clone this repository and run the following within the SimRigMockAPI directory:
 ```
 npm install
 npm run start
